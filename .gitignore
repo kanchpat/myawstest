@@ -1,0 +1,6 @@
+*.phar
+*.zip
+/Config
+.build
+composer.lock
+vendor
